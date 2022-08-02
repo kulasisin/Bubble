@@ -191,7 +191,9 @@ body {
   white-space: nowrap;
   overflow: hidden;
   display: block;
-  background-image: url(https://i.postimg.cc/8kdT6j3b/logo1.png);
+  background-image: url(./img/BUBBLE\ 安心寶.svg);
+  background-repeat: no-repeat;
+  background-position: 50%;
   width: 236px;
   height: 75px;
 }
